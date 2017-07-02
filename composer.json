@@ -1,0 +1,23 @@
+{
+    "name": "struzik-vladislav/xpath-extended",
+    "description": "Additional functions for XPath",
+    "keywords": ["xpath", "function", "quote"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vladislav Struzik",
+            "email": "vladislav@struzik.blog"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "XPath\\": "xpath/"
+        },
+        "files": [
+            "src/functions.php"
+        ]
+    }
+}
