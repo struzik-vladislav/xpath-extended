@@ -1,7 +1,7 @@
 {
     "name": "struzik-vladislav/xpath-extended",
     "description": "Additional functions for XPath",
-    "keywords": ["xpath", "function", "quote"],
+    "keywords": ["xpath", "extension", "function", "quote"],
     "license": "MIT",
     "authors": [
         {
